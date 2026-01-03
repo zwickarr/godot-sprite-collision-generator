@@ -114,7 +114,7 @@ If you get "too many points" warning:
 
 ## 📸 Screenshots
 
-[Sprite Collision Generator Demo](sprite_collision_gen.gif)
+![Sprite Collision Generator Demo](sprite_collision_gen.gif)
 
 ## 🤝 Contributing
 
