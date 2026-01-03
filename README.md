@@ -114,7 +114,7 @@ If you get "too many points" warning:
 
 ## 📸 Screenshots
 
-*(Add screenshots here showing the dock interface and examples of generated collisions)*
+[Sprite Collision Generator Demo](sprite_collision_gen.gif)
 
 ## 🤝 Contributing
 
