@@ -3,9 +3,5 @@
 /screenshots export-ignore
 .gitattributes export-ignore
 .gitignore export-ignore
-.png export-ignore
-.gif export-ignore
-.uid export-ignore
-gp.bat export-ignore
 LICENSE.md export-ignore
 README.md export-ignore
