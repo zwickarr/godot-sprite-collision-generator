@@ -113,8 +113,8 @@ If you get "too many points" warning:
 - Proper transformation to target node coordinates
 
 ## 📸 Screenshots
-![UI](sprite_collision_gen_ui.png)
-![Sprite Collision Generator Demo](sprite_collision_gen.gif)
+![Sprite Collision Generator UI](https://raw.githubusercontent.com/zwickarr/godot-sprite-collision-generator/main/screenshots/ui.webp)
+![Sprite Collision Generator Demo](https://raw.githubusercontent.com/zwickarr/godot-sprite-collision-generator/main/screenshots/Sprite%20Collision%20Generator.gif)
 
 ## 🤝 Contributing
 
